@@ -9,18 +9,6 @@
 
 </p>
 
-## 关于 AVBook
-
-AVBook 是基于 Laravel 开发的 Web 应用程序，通过 Artisan 控制台实现`avmoo`,``javbus``,`javlibrary`的爬虫采集数据入库mysql，前端页面模仿``javbus``，并添加一些类似`javlibrary`的功能。该系统相当于以上三个网站的结合体，能够使你更加方便地管理你的影片。
-
-## 预览
-
-**（<font color=red>FBI WARNING</font>：不要在公共场所打开以下图片）**
-
-<a  target="_blank"   href ="https://raw.githubusercontent.com/guyueyingmu/avbook/master/public/avbook/scrshot_index.png" >🔞 首页截图</a>
-
-<a  target="_blank"   href ="https://raw.githubusercontent.com/guyueyingmu/avbook/master/public/avbook/scrshot_movie.png" >🔞 详情页截图</a>
-
 
 ## Get Started
 
